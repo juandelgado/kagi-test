@@ -1,3 +1,5 @@
+NOTE: This repo is the deliverable for a Flutter dev role technical test for [Kagi](https://kagi.com/). [More info](./docs/test-instructions.md).
+
 # Juan's Kite
 
 <img width="600" src="images/dark.png"/>
