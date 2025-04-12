@@ -1,0 +1,59 @@
+{
+  "@@locale": "en",
+  "contentLoading": "Loading content, please wait.",
+  "@contentLoading": {},
+  "contentLoadingError": "There has been an error while loading the content.",
+  "@contentLoadingError": {},
+  "categoriesGoToCategory": "{CATEGORY} category",
+  "@categoriesGoToCategory": {
+    "placeholders": {
+      "CATEGORY": {
+        "type": "String"
+      }
+    }
+  },
+  "goToCluster": "Go to {TITLE}",
+  "@goToCluster": {
+    "placeholders": {
+      "TITLE": {
+        "type": "String"
+      }
+    }
+  },
+  "articlePerspectives": "Perspectives",
+  "@articlePerspectives": {},
+  "articlePerspective": "{INDEX}. {CONTENT}",
+  "@articlePerspective": {
+    "placeholders": {
+      "INDEX": {
+        "type": "int"
+      },
+      "CONTENT": {
+        "type": "String"
+      }
+    }
+  },
+  "articleFurtherReading": "Further reading",
+  "@articleFurtherReading": {},
+  "noImageDescription": "No image description available",
+  "@noImageDescription": {},
+  "visitArticleHint": "Open external website {DOMAIN} for {CONTENT}",
+  "@visitArticleHint": {
+    "placeholders": {
+      "DOMAIN": {
+        "type": "String"
+      },
+      "CONTENT": {
+        "type": "String"
+      }
+    }
+  },
+  "topBarGoBack": "Back",
+  "@topBarGoBack": {},
+  "errorBack": "Back",
+  "@errorBack": {},
+  "errorRetry": "Retry",
+  "@errorRetry": {},
+  "widePleaseSelectCategory": "👈🏻",
+  "@widePleaseSelectCategory": {}
+}
