@@ -25,7 +25,7 @@ jobs:
       flutter_channel: stable
       flutter_version: 3.29.3
       test_recursion: true
-      coverage_excludes: "**/**.g.dart"
+      coverage_excludes: "**/*.g.dart"
       min_coverage: 75
 
   spell-check:
