@@ -22,4 +22,4 @@ Note how the Back icon grows in size with the font, as the assumption is that if
 
 Remember to turn audio up!
 
-https://github.com/kagi-hiring/flutter-5/raw/refs/heads/main/images/accessibility.mp4
+https://github.com/juandelgado/kagi-test/raw/refs/heads/main/images/accessibility.mp4
