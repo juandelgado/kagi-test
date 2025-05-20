@@ -2,7 +2,7 @@ import 'package:beamer/beamer.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:juan_kite/app/app_routes.dart';
-import 'package:juan_kite/extensions/l10n.dart';
+import 'package:juan_kite/l10n/arb/app_localizations.dart';
 import 'package:juan_kite/theme/app_theme.dart';
 
 class App extends StatelessWidget {

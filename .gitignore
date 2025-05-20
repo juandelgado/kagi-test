@@ -117,3 +117,6 @@ app.*.map.json
 
 # configuration
 *.env
+
+# Generated localization files
+lib/l10n/arb/*.dart
