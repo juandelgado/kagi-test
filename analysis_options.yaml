@@ -3,4 +3,6 @@ linter:
   rules:
     public_member_api_docs: false
 analyzer:
-  exclude: ["**.g.dart"]
+  exclude:
+    - "**.g.dart"
+    - "lib/l10n/arb/*.dart"
